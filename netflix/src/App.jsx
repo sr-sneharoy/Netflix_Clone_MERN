@@ -1,11 +1,14 @@
 import Body from "./components/Body"
+import { Toaster } from 'react-hot-toast';
+
 
 function App() {
 
   return (
     <>
-      <div className="text-yellow-300 bg-black p-4">
+      <div >
         <Body />
+        <Toaster />
       </div>
       
     </>

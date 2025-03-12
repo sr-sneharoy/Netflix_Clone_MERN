@@ -46,3 +46,28 @@ export default defineConfig({
 ```
 npm i react-router-dom
 ```
+
+# for react icon
+
+```
+npm i react-icons
+
+```
+
+npm i axios
+
+npm i @reduxjs/toolkit react-redux
+
+
+# to set up backend
+
+```
+npm init
+
+npm i express mongoose
+npm i dotenv bcryptjs cookie-parser jsonwebtoken cors
+
+```
+
+# to start application
+nodemon index.js
